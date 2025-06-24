@@ -1,0 +1,7 @@
+mall_customer_segmentation/
+├── data/Mall_Customers.csv           # Dataset
+├── cluster_analysis.py               # K-means clustering code
+├── app.py                            # Streamlit visualization
+├── requirements.txt
+├── README.md
+└── .gitignore
